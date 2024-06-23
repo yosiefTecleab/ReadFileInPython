@@ -4,7 +4,7 @@ from datetime import datetime
 # Some other example server values are
 # server = 'localhost\sqlexpress' # for a named instance
 # server = 'myserver,port' # to specify an alternate port
-server = "LAPTOP-N194SGOT\SERVER2"
+server = " "
 database = "Test1"
 
 # query = "INSERT INTO pivot_tb VALUES(sales_date,customer_id,amount);"

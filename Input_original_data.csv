@@ -1,0 +1,20 @@
+sales_date,customer_id,amount
+01 Jan 21,Cust-1,50$
+02 Jan 21,Cust-1,50$
+03 Jan 21,Cust-1,50$
+01 Jan 21,Cust-2,100$
+02 Jan 21,Cust-2,100$
+03 Jan 21,Cust-2,100$
+01 Feb 21,Cust-2,-100$
+02 Feb 21,Cust-2,-100$
+03 Feb 21,Cust-2,-100$
+01 Mar 21,Cust-3,1$
+01 Apr 21,Cust-3,1$
+01 May 21,Cust-3,1$
+01 Jun 21,Cust-3,1$
+01 Jul 21,Cust-3,-1$
+01 Aug 21,Cust-3,-1$
+01 Sep 21,Cust-3,-1$
+01 Oct 21,Cust-3,-1$
+01 Nov 21,Cust-3,-1$
+01 Dec 21,Cust-3,-1$
